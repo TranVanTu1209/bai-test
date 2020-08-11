@@ -1,0 +1,6 @@
+/** @format */
+
+.listPost {
+	height: 80vh;
+	overflow-y: scroll;
+}
